@@ -1,3 +1,5 @@
+# This is fork whrein I change fmt to erros in order to optimize build size for the smart contracts
+
 [![Go Report Card](https://goreportcard.com/badge/github.com/vlmoon99/jsonparser)](https://goreportcard.com/report/github.com/vlmoon99/jsonparser) ![License](https://img.shields.io/dub/l/vibe-d.svg)
 # Alternative JSON parser for Go (10x times faster standard library)
 
