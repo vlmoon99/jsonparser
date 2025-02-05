@@ -1,9 +1,10 @@
 package benchmark
 
 import (
-	"github.com/buger/jsonparser"
 	"strconv"
 	"testing"
+
+	"github.com/vlmoon99/jsonparser"
 )
 
 func BenchmarkSetLarge(b *testing.B) {
